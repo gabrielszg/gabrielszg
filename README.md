@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Java
 - 🏫 Digital Innovation One
-- - 📘 Bootcamp Cognizant Java Developer
+- - 📘 Bootcamp Cognizant Java Developer ✅
 
 <div align="center">
   <a href="https://github.com/gabrielszg">
@@ -13,10 +13,12 @@
 <div style="display: inline_block"><br>
    <img align="center" alt="Gabriel-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
    <img align="center" alt="Gabriel-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-   <img align="center" alt="Gabriel-Sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+   <img align="center" alt="Gabriel-Sql" height="50" width="60" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
    <img align="center" alt="Gabriel-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
    <img align="center" alt="Gabriel-PostgreSql" height="50" width="60" src="https://img.icons8.com/color/48/000000/postgreesql.png">
    <img align="center" alt="Gabriel-Maven" height="50" width="60" src="http://maven.apache.org/images/maven-logo-black-on-white.png">
+   <img align="center" alt="Gabriel-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+   <img align="center" alt="Gabriel-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 </div>
   
 ##

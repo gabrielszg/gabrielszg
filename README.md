@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Gonçalves
 
-- 🌱 Estudando Java
+- 👨🏻‍💻☕ Java Web Developer
 - 🏫 Digital Innovation One
 - - 📘 Bootcamp Cognizant Java Developer ✅
 
@@ -15,16 +15,14 @@
    <img align="center" alt="Gabriel-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
    <img align="center" alt="Gabriel-Sql" height="50" width="60" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
    <img align="center" alt="Gabriel-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-   <img align="center" alt="Gabriel-PostgreSql" height="50" width="60" src="https://img.icons8.com/color/48/000000/postgreesql.png">
-   <img align="center" alt="Gabriel-Maven" height="50" width="60" src="http://maven.apache.org/images/maven-logo-black-on-white.png">
+   <img align="center" alt="Gabriel-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img align="center" alt="Gabriel-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-   <img align="center" alt="Gabriel-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+   <img align="center" alt="Gabriel-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 </div>
   
 ##
   
 <div> 
-  <a href="https://instagram.com/gabrielszgoncalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielsouza5@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gabriel-gonçalves-a97431144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

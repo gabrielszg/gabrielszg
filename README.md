@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Gonçalves
+## Olá! Eu sou o Gabriel Gonçalves 👋🏻
 
 👨🏻‍💻☕ Java Web Developer
 

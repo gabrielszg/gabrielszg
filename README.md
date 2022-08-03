@@ -9,7 +9,7 @@
 - - 📘 Bootcamp Cognizant Java Developer ✅
 - - 📘 Bootcamp Spring Framework Experience ✍🏻
 
-##
+<br/>
 
 <div align="center">
   <a href="https://github.com/gabrielszg">

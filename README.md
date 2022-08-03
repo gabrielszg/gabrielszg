@@ -9,6 +9,8 @@
 - - 📘 Bootcamp Cognizant Java Developer ✅
 - - 📘 Bootcamp Spring Framework Experience ✍🏻
 
+##
+
 <div align="center">
   <a href="https://github.com/gabrielszg">
   <img height="215em" src="https://github-readme-stats.vercel.app/api?username=gabrielszg&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>

@@ -7,7 +7,7 @@
 
 🏫 Digital Innovation One
 - - 📘 Bootcamp Cognizant Java Developer ✅
-- - 📘 Bootcamp Spring Framework Experience ✍🏻
+- - 📘 Bootcamp Spring Framework Experience ✅
 
 <br/>
 

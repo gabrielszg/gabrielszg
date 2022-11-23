@@ -1,13 +1,14 @@
 ## Olá! Eu sou o Gabriel Gonçalves 👋🏻
 
-👨🏻‍💻☕ Java Web Developer
+👨🏻‍💻☕ Java/Web Developer
 
 🏫 Unisuam
 - - 📘 Análise e Desenvolvimento de Sistemas ✍🏻
 
 🏫 Digital Innovation One
-- - 📘 Bootcamp Cognizant Java Developer ✅
+- - 📘 Bootcamp Kotlin Experience ✍🏻
 - - 📘 Bootcamp Spring Framework Experience ✅
+- - 📘 Bootcamp Cognizant Java Developer ✅
 
 <br/>
 

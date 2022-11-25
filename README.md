@@ -1,36 +1,30 @@
-## Olá! Eu sou o Gabriel Gonçalves 👋🏻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Goncalves;I'm+26+years+old;I+from+Rio+de+Janeiro,+RJ;I+study+Analysis+and+Systems+Development+at+Unisuam;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-👨🏻‍💻☕ Java/Web Developer
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?          username=gabrielszg&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Goncalves github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielszg&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-🏫 Unisuam
-- - 📘 Análise e Desenvolvimento de Sistemas ✍🏻
+![Contribution](https://activity-graph.herokuapp.com/graph?username=gabrielszg&theme=gotham&hide_border=true&area=true)
 
-🏫 Digital Innovation One
-- - 📘 Bootcamp Kotlin Experience ✍🏻
-- - 📘 Bootcamp Spring Framework Experience ✅
-- - 📘 Bootcamp Cognizant Java Developer ✅
+<div align="center">
+   <img align="center" alt="Gabriel-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="Gabriel-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+   <img align="center" alt="Gabriel-Sql" height="40" width="60" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
+   <img align="center" alt="Gabriel-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+   <img align="center" alt="Gabriel-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="Gabriel-HTML" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+   <img align="center" alt="Gabriel-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+</div>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/gabrielszg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielszg&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielszg&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-
-<div style="display: inline_block"><br>
-   <img align="center" alt="Gabriel-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-   <img align="center" alt="Gabriel-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-   <img align="center" alt="Gabriel-Sql" height="50" width="60" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
-   <img align="center" alt="Gabriel-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-   <img align="center" alt="Gabriel-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img align="center" alt="Gabriel-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-   <img align="center" alt="Gabriel-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-</div>
-  
-##
-  
-<div> 
-  <a href = "mailto:gabrielsouza5@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<div align="center"> 
+  <a href="mailto:gabrielsouza5@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gabriel-gonçalves-a97431144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"></a> 
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrielszg}/count.svg" /></p> 
+<br></div>

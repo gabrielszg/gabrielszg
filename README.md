@@ -11,6 +11,7 @@
    <img align="center" alt="Gabriel-Sql" height="40" width="60" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
    <img align="center" alt="Gabriel-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
    <img align="center" alt="Gabriel-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="Gabriel-JS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" alt="Gabriel-HTML" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
    <img align="center" alt="Gabriel-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
    <img align="center" alt="Gabriel-Kotlin" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />

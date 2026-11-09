@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=false&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Goncalves;I'm+29+years+old;I+from+Rio+de+Janeiro,+RJ;I+have+a+degree+in+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=false&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Goncalves;I'm+30+years+old;I+from+Rio+de+Janeiro,+RJ;I+have+a+degree+in+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
    <img align="center" alt="Gabriel-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
